@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Temperature control app in React 
+Beginner react project by 
+Chris Blakely
+
+Full Tutorial Video:https://youtu.be/V3bhcxpoxQU
+
+
+## Objectives
+* Initializing a React project
+* React hooks "useState"
+* Update CSS depending on state
+* Handling onClick events
+
+------------------------
+BOILERPLATE
+------------------------
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
